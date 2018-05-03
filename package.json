@@ -9,7 +9,7 @@
   },
   "engines": {
       "node": "*"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akshaychoudhary92/FriendFinder-.git"

@@ -1,7 +1,7 @@
 var friends = [
     {
       name: "dave",
-      photo: "",
+      photo: "node ",
       scores: [
         "5",
         "1",
